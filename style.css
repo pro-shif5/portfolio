@@ -74,6 +74,9 @@ main{
   padding-top: 100px;
   margin-bottom: 100px;
 }
+#work p{
+  margin-top: 30px;
+}
 
 /*profile*/
 #profile{
